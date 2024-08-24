@@ -16,6 +16,13 @@ print(multiply_numbers(2, 3))
 print("multiply_numbers(3, 5) is:")
 print(multiply_numbers(3, 5))
 
+def multipply_numbers(num_2,num_7):
+  return num_2 * num_7
+
+#print("multiply_numbers(2, 7 is:"):
+
+
+
 # @TASK: Run these in the shell using:
 
 #   python 014_multiply_numbers.py
