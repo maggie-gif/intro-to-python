@@ -16,7 +16,12 @@ from lib.helpers import check_that_these_are_equal
 # Here's how: https://vimeo.com/956351893/f5a80a1c1b
 
 # YOUR FUNCTION GOES BELOW THIS LINE
+# print ("Function: add_two")
 
+# check_that_these_are_equal
+# print (add_two(6)
+
+    
 
 
 # YOUR FUNCTION GOES ABOVE THIS LINE
@@ -33,11 +38,11 @@ from lib.helpers import check_that_these_are_equal
 # the `:` at the end of the first line, and the spacing at
 # the start of some of the lines.
 
-print("Function: add_two")
 
-check_that_these_are_equal(
-  add_two(6),
-  8
-)
+
+
+  
+
+
 
 # When you're done, move on to 014_multiply_numbers.py
