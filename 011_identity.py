@@ -7,11 +7,18 @@ def just_return_it(num):
 
 # This is a function. A function is a reusable block of
 # code.
+def just_return_it(num):
+  return num
+  
+  
 
 # Think of a function as a little machine. It takes an
 # input, processes it in some way, and then returns an
 # output.
 
+def just_retun_it(character):
+  return Maggie
+  
 # This `just_return_it` function has:
 
 # * A name: `just_return_it` that we can use to call it
@@ -32,6 +39,8 @@ def just_return_it(num):
 
 just_return_it(4)
 # Returns 4
+print(just_return_it(4)
+      
 
 # In the code above, the argument `4` goes into the
 # `just_return_it` function and takes the place of `num` in
