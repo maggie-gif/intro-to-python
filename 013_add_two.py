@@ -21,7 +21,7 @@ from lib.helpers import check_that_these_are_equal
 # check_that_these_are_equal
 # print (add_two(6)
 add_two(6)
-print(number)
+print(add_two(6))
 
 
     
